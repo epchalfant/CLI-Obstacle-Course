@@ -1,0 +1,157 @@
+  654  mk CLIObstacleCourse
+  655  mkdir CLIObstacleCourse
+  656  ls
+  657  cd CLIObstacleCourse/
+  658  ls
+  659  git clone https://github.com/epchalfant/CLI-Obstacle-Course
+  660  ls
+  661  cd CLI-Obstacle-Course/
+  662  ls
+  663  ls -a
+  664  mv images ./app/assets/
+  665  cd app/assets/
+  666  ls
+  667  cd images/
+  668  ls
+  669  cd ../..
+  670  ls
+  671  cd views/
+  672  las -a
+  673  ls
+  674  ls -a
+  675  cd static_pages/
+  676  ls
+  677  ls ..
+  678  mv this_is_the_annoying_ping_pong_text\!.txt ..
+  679  cd ..
+  680  ls
+  681  cd ~/Desktop/programs/CLIObstacleCourse/CLI-Obstacle-Course/app/views/
+  682  ls
+  683  cd static_pages/
+  684  ls
+  685  mv where_am_you?.txt
+  686  help
+  687  clear
+  688  ls
+  689  mv new.html.erb where_am_you?.txt
+  690  ls
+  691  rm where_am_you\?.txt where_am_i?.txt
+  692  mv where_am_you\?.txt where_am_i?.txt
+  693  mv where_am_you\?.txt where_am_i\?.txt
+  694  ls
+  695  where_am_i?.txt
+  696  vim where_am_i\?.txt
+  697  ls
+  698  vim where_am_i\?.txt
+  699  ls
+  700  cd ~
+  701  ls
+  702  cd Desktop/programs/CLIObstacleCourse/CLI-Obstacle-Course/app/views/static_pages/
+  703  ls
+  704  . > where_am_i\?.txt
+  705  . > ./where_am_i\?.txt
+  706  ./ > where_am_i\?.txt
+  707  .
+  708  ./
+  709  "./" > where_am_i\?.txt
+  710  './' > where_am_i\?.txt
+  711  ls
+  712  cleear
+  713  clear
+  714  ls
+  715  > . where_am_i\?.txt
+  716  > ./ where_am_i\?.txt
+  717  clear
+  718  ls -lR > where_am_i\?.txt
+  719  ls
+  720  vim where_am_i\?.txt
+  721  ls > where_am_i\?.txt
+  722  vim where_am_i\?.txt
+  723  . > where_am_i\?.txt
+  724  ~/ > where_am_i\?.txt
+  725  ls
+  726  .
+  727  ./
+  728  pwd
+  729  pwd > where_am_i\?.txt
+  730  vim where_am_i\?.txt
+  731  cd ~
+  732  ls
+  733  find static_pages_controller.rb
+  734  find static_pages_controller.rb
+  735  find static_pages_controller
+  736  find *controller*
+  737  cd Desktop/programs/CLIObstacleCourse/CLI-Obstacle-Course/
+  738  ls
+  739  find *controller*
+  740  find static_pages_controller.rb
+  741  find static_pages_controller
+  742  cd
+  743  cd Desktop/programs/CLIObstacleCourse/
+  744  ls
+  745  find static_pages_controller
+  746  find static_pages_controller.rb
+  747  ls
+  748  cd CLI-Obstacle-Course/
+  749  ls
+  750  find Sta*
+  751  find S*
+  752  find
+  753  find *.rb
+  754  find ./ *controller*
+  755  find ./ static_pages_controller.rb
+  756  clear
+  757  find ./ static_pages_controller.rb
+  758  find ~/ -name 'static_pages_controller.rb'
+  759  mv ./app/helpers/static_pages_controller.rb ./app/controllers/
+  760  cd app/controllers/
+  761  ls
+  762  find ./ -name '*controller*'
+  763  find ./ -dir 'bootinator'
+  764  find help
+  765  help find
+  766  info find
+  767  find ./ -name 'controller'
+  768  find ./ -name 'controller.rb'
+  769  find ./ -name 'controller.rb'
+  770  find ./ -name 'controller*'
+  771  find ./ -name '*controller*'
+  772  find ./ -name '*bootinator*'
+  773  find ./ -name 'bootinator'
+  774  find ./ -name 'delete_me'
+  775  find ./ -name 'delete_me*'
+  776  find ./ -name '*delete_me'
+  777  find ./ -name '*delete_me*'
+  778  cd ../..
+  779  ls
+  780  find ./ -name '*bootinator*'
+  781  find ./ -name '*controller*'
+  782  find ./ -name 'delete_me'
+  783  rm delete_me
+  784  rm -r -i delete_me/
+  785  ls
+  786  grep -r 'bootinator'
+  787  grep 'bootinator' *.*
+  788  ls
+  789  grep -i "bootinator"
+  790  grep -r 'bootinator' *.*
+  791  grep -ri 'bootinator' *.*
+  792  grep -r "bootinator" *
+  793  cd app/assets/stylesheets/
+  794  vim application_helper.rb
+  795  cd ../../..
+  796  ls
+  797  mv app/assets/stylesheets/application_helper.rb app/controllers/
+  798  cd app/controllers/
+  799  ls
+  800  cd ../..
+  801  ls
+  802  grep -r 'winning.rb' *
+  803  find -r 'winning.rb'
+  804  find ./ -name 'winning.rb'
+  805  find ./ -name '*winning.rb'
+  806  cp config/environments/you_are_winning.rb ~/
+  807  cd
+  808  ls
+  809  ruby you_are_winning.rb
+  810  history
